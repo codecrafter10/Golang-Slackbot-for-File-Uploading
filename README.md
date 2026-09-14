@@ -14,7 +14,7 @@ Getting Started
 Step 1: Clone the repository
 bash
 Copy code
-git clone https://github.com/anandpanda3/Golang-Slackbot-for-File-Uploading.git
+git clone https://github.com/codecrafter10/Golang-Slackbot-for-File-Uploading.git
 cd Golang-Slackbot-for-File-Uploading
 Step 2: Set up environment variables
 Create a .env file in the root directory and add the following variables:
@@ -43,3 +43,8 @@ Feel free to submit issues, fork this repository, and send pull requests. Contri
 
 License
 This project is licensed under the MIT License. See the LICENSE file for more details.
+
+
+Contact Information 
+Name: Zaid Ali
+Email: Zaidli.za2635@gmail.com
