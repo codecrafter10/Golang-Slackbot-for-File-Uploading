@@ -47,4 +47,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 Contact Information 
 Name: Zaid Ali
-Email: Zaidli.za2635@gmail.com
+Email: Zaidali.za2635@gmail.com
